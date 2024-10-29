@@ -24,5 +24,5 @@ samples, guidance on mobile development, and a full API reference.
 - [ ] modal_progress_hud_nsn package
 - [ ] Saved Token
 - [ ] Update profile
-- [ x ] Buttons **_Loading_**
+- [x] Buttons Loading
 
