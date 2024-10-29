@@ -23,6 +23,6 @@ samples, guidance on mobile development, and a full API reference.
 
 - [ ] modal_progress_hud_nsn package
 - [ ] Saved Token
-- [x] #### Update profile **display_name,photo_url**
+- [x] Update profile **display_name,photo_url**
 - [x] Buttons Loading
 
