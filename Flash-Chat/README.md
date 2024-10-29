@@ -21,7 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 (https://github.com/londonappbrewery/Flash-Chat-Flutter-Complete/blob/master/lib/screens/chat_screen.dart#L98)
 *****
 
-- [ ] modal_progress_hud_nsn package
 - [ ] Saved Token
 - [x] Update profile **display_name,photo_url**
 - [x] Buttons Loading
